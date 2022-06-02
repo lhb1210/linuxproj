@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 patter=$1
 directory=$2
