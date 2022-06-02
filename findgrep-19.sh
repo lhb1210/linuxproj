@@ -8,4 +8,4 @@ then
 	directory='.'
 fi
 
-find . -type f | xargs grep -nH "$pattern" "> /devnull/"
+find . -type f | xargs grep -nH "$pattern" "> /dev/null/"
